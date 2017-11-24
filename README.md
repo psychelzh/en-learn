@@ -26,4 +26,4 @@ In fact, I guess I should connect plaintive with these words: "plaint, complain,
 
 ### impudent
 
-Meaning: "rude". The [etymology](https://www.etymonline.com/word/impudent) of this word is interesting. The meaning of this word comes from Latin *impudentem* "without shame, shameless". Two parts composed this word: *in-* "not, opposite of" + *pudens* "ashamed, modest". And from *pudens*, you would find a word *pudendum*, the meaning of which is "external genitals*, and would definitely "cause shame".
+Meaning: "rude". The [etymology](https://www.etymonline.com/word/impudent) of this word is interesting. The meaning of this word comes from Latin *impudentem* "without shame, shameless". Two parts composed this word: *in-* "not, opposite of" + *pudens* "ashamed, modest". And from *pudens*, you would find a word *pudendum*, the meaning of which is "external genitals", and would definitely "cause shame".
