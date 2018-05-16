@@ -9,6 +9,7 @@ English language learning remarks. Tracking all the thoughts and extracts.
   * [plaintive](#plaintive)
   * [impudent](#impudent)
   * [jeopardize](#jeopardize)
+- [Words that are confusing](#words-that-are-confusing)
 
 ## TOEFL
 
