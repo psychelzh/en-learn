@@ -49,3 +49,9 @@ On [Etymonline](https://www.etymonline.com/word/jeopardy), you will find the ety
 > This is from jeu "a game" (from Latin iocus "jest;" see joke (n.)) + parti, past participle of partir "to divide, separate" (10c.), from Latin partire/partiri "to share, part, distribute, divide," from pars "a part, piece, a share" (from PIE root \*pere-(2) "to grant, allot"). Jeopardous "in peril" (mid-15c.) is now obsolete.
 
 Thus, it seems that uncertainty just means that there is risk. Of course, it makes sense that we would take a risk when doing something we do not have a certain knowledge, e.g., the stock market. Uncertainty comes from "even chances", which is the meaning of "pardy".
+
+## Words that are confusing
+
+* lunge/plunge
+* tumble/stumble
+* anguish/languish
